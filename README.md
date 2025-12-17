@@ -88,9 +88,9 @@ A confusion matrix can be generated to analyze misclassifications and class-wise
 
 ## Model Files
 
-* [Softmax Model](model/gender_softmax_final.keras)
-* [Sigmoid Model](model/gender_sigmoid_final.keras)
-
+![Softmax Training](softmax_vs_sigmoid/plot/training_softmax.png)
+![Sigmoid Training](softmax_vs_sigmoid/plot/training_sigmoid.png)
+![Training Plot](plot/training.png)
 ---
 
 ## Plot Files
