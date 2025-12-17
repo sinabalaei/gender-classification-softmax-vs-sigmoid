@@ -61,10 +61,10 @@ A CNN was designed using a **custom Keras Model subclass** (instead of `Sequenti
 ## Training Plots
 
 **Softmax Model:**
-![Softmax Training](plot/training_softmax.png)
+![Softmax Training](softmax_vs_sigmoid/plot/training_softmax.png)
 
 **Sigmoid Model:**
-![Sigmoid Training](plot/training_sigmoid.png)
+![Sigmoid Training](softmax_vs_sigmoid/plot/training_sigmoid.png)
 
 ---
 
@@ -88,14 +88,12 @@ A confusion matrix can be generated to analyze misclassifications and class-wise
 
 ## Model Files
 
-![Softmax Training](softmax_vs_sigmoid/plot/training_softmax.png)
-![Sigmoid Training](softmax_vs_sigmoid/plot/training_sigmoid.png)
-![Training Plot](plot/training.png)
+* [Current Model](softmax_vs_sigmoid/model/gender_net.keras)
 ---
 
 ## Plot Files
 
-* [Overall Training Plot](plot/training.png)
+![Training Plot](plot/training.png)
 
 ---
 
