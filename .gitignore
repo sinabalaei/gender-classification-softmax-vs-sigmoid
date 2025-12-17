@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.h5
+*.keras
+.DS_Store
+.idea/
+.vscode/
+dataset/
